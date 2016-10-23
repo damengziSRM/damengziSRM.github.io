@@ -113,16 +113,18 @@ body{
 .icon-bar li{
 	display: inline-block;
 	font-size: 2em;
-	padding: 0 1em;
 	width: 33%;
 	margin-top: 8px;
 	opacity: 0;
 }
 .icon-bar a{
 	color: #fff;
-	text-decoration: n
+	text-decoration: none;
 }
-
+.info{
+	font-size: 12px;
+	margin-top: -10px;
+}
 
 /*Animation*/
 /*Show state*/
