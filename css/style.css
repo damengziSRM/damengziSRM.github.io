@@ -185,6 +185,7 @@ h2 {
   max-width: 200px;
   margin: 0 auto;
   overflow: hidden;
+  max-height:200px;
 }
 
 .section-header .name {
